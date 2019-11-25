@@ -39,7 +39,7 @@ O prazo final para entrega do projeto será no dia 27/11/2019.
 O candidato se destacará caso implemente um ou mais requisitos sugeridos abaixo:
 
 - Container Docker com o ambiente;
-- Desenvolver uma Árvore de legendas (Conforme a imagem);
+- Criar componente(s) para edição do estilo de uma layer.
 - Upload de sua aplicação na nuvem (AWS, Google Cloud).
 
 ## Referências
