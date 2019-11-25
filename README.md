@@ -11,9 +11,9 @@ Sua atividade será desenvolver uma aplicação web básica para visualização 
   - Um layer pode ser definido abreviadamente pela a seguinte estrutura:
     * `nome` Nome do layer para visualização. Por exemplo: *Estados*;
     * `layers` Nome real do layer. No GeoServer, é definido na seguinte estrutura: `workspace:layerName`. Por exemplo: *teste_vaga:estados_ams*;
-    * `descricao` Informação extra relacionada ao layer (OPCIONAL). Por exemplo: *Estados da América do Sul*
+    * `descricao` Informação extra relacionada ao layer (OPCIONAL). Por exemplo: *IBGE Biomas*
     * `url` URL para disponibilização do layer.
-    * `projection` Projeção espacial do layer. Por exemplo:
+    * `projection` Projeção espacial do layer. Por exemplo: *EPSG:4326*
 
    Os layers podem ser encontrados neste [`link`](https://github.com/brazil-data-cube/test-dev/blob/master/layers.json)
 
