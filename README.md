@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Sua atividade será desenvolver uma aplicação básica para cadastro e visualização de layers em um mapa. A imagem abaixo exemplifica como é feito utilizando o aplicativo de visualização do Brazil Data Cube.
+Sua atividade será desenvolver uma aplicação web básica para visualização de layers em um mapa.
 
 ## Requisitos
 
