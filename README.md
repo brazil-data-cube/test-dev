@@ -24,7 +24,7 @@ Sua atividade será desenvolver uma aplicação básica para cadastro e visualiz
 
 - Desenvolver casos de teste para seus respectivos modulos.
 
-- Faça upload do projeto no GitHub e disponibilize o link para visualização.
+- Faça um fork desse repositório no seu GitHub e nos envie o link por e-mail.
 
 ## Observações
 
