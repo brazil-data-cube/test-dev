@@ -15,7 +15,7 @@ Sua atividade será desenvolver uma aplicação básica para cadastro e visualiz
     * `url` URL para disponibilização do layer.
     * `projection` Projeção espacial do layer. Por exemplo:
 
-   Os layers podem ser encontrados neste [`link`](http://www.dpi.inpe.br/jenkins-data/brazil-data-cube/tmp/layers.json)
+   Os layers podem ser encontrados neste [`link`](https://github.com/brazil-data-cube/test-dev/blob/master/layers.json)
 
 - O FrontEnd:
   - Utilize um dos frameworks a seguir para desenvolvimento do aplicativo: Angular 8+, React ou VueJS.
