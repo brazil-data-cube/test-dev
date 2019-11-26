@@ -9,9 +9,8 @@ Sua atividade será desenvolver uma aplicação web básica para visualização 
 - O BackEnd:
   - Utilize o Python e Flask para servir o JSON dos layers via REST. Estes layers apontam para nossa instância do GeoServer;
   - Um layer pode ser definido abreviadamente pela a seguinte estrutura:
-    * `nome` Nome do layer para visualização. Por exemplo: *Estados*;
-    * `layers` Nome real do layer. No GeoServer, é definido na seguinte estrutura: `workspace:layerName`. Por exemplo: *teste_vaga:estados_ams*;
-    * `descricao` Informação extra relacionada ao layer (OPCIONAL). Por exemplo: *IBGE Biomas*
+    * `layer` Nome real do layer. No GeoServer, é definido na seguinte estrutura: `workspace:layerName`. Por exemplo: *grids:ibge_biomas*;
+    * `description` Informação extra relacionada ao layer (OPCIONAL). Por exemplo: *IBGE Biomas*
     * `url` URL para disponibilização do layer.
     * `projection` Projeção espacial do layer. Por exemplo: *EPSG:4326*
 
@@ -32,7 +31,7 @@ Este é um pequeno exercício. Sinta-se a vontade para adicionar novas funcional
 
 ## Deadline
 
-O prazo final para entrega do projeto será no dia 27/11/2019.
+O prazo final para entrega do projeto será no dia 29/11/2019.
 
 ## Bônus
 
