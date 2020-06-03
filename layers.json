@@ -1,7 +1,7 @@
 [
     {
-        "layer": "grids:aea_250k",
-        "description": "Grade Albers Equal Area",
+        "layer": "grids:BDC_GRID",
+        "description": "Brazil Data Cube Grid - Albers Equal Area",
         "url": "http://brazildatacube.dpi.inpe.br/geoserver",
         "projection": "EPSG:4326"
     },
